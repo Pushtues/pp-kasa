@@ -1,2 +1,0 @@
-# pp-kasa
-Yazarkasa soygunu
